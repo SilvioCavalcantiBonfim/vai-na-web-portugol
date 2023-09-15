@@ -1,1 +1,1 @@
-# vai-na-web-portugol
+# Repositório destinado as atividades do curso Backend Vai na Web
